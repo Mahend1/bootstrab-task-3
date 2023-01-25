@@ -1,0 +1,14 @@
+.center{
+    width: 60px;
+    height: 3px;
+    font-size: 50px;
+}
+.star{
+    font-size: 25px;
+    margin-top: 5px;
+}
+#free{
+    border: 1px solid white;
+    padding: 8px;
+    margin-top: 30px;
+}
